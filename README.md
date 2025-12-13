@@ -17,23 +17,23 @@ The workspace contains 3 File Structure that "Screams OOP", on where the src con
 
 ## File Structure
 src/
-  tetris/
-    App.java
-    core/
-      Board.java
-      Game.java
-      RandomBag.java
-      ScoreManager.java
-      ShapeType.java
-      Tetromino.java
+  - tetris/
+    - App.java
+    - core/
+      - Board.java
+      - Game.java
+      - RandomBag.java
+      - ScoreManager.java
+      - ShapeType.java
+      - Tetromino.java
     states/
-      GameOverState.java
-      GameState.java
-      PausedState.java
-      RunningState.java
+      - GameOverState.java
+      - GameState.java
+      - PausedState.java
+      - RunningState.java
     ui/
-      GamePanel.java
-      GameWindow.java      
+      - GamePanel.java
+      - GameWindow.java      
      
 
 
@@ -77,7 +77,7 @@ P pause
 
 
 ## Collaborators 
-Jan Stanlee Achumbre 
-Hiroshi Curimatmat 
-Athena Jamie Uy 
-Aisha Malinao
+  - Jan Stanlee Achumbre 
+  - Hiroshi Curimatmat 
+  - Athena Jamie Uy 
+  - Aisha Malinao
