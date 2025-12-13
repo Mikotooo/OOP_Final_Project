@@ -26,12 +26,12 @@ src/
       - ScoreManager.java
       - ShapeType.java
       - Tetromino.java
-    states/
+    - states/
       - GameOverState.java
       - GameState.java
       - PausedState.java
       - RunningState.java
-    ui/
+    - ui/
       - GamePanel.java
       - GameWindow.java      
      
