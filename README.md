@@ -9,7 +9,7 @@ A Classic Retro Gameboy UI Will be Implemented
 
 ## Folder Structure
 
-The workspace contains 3 File Structure that "Screams OOP", on where the src contains:
+The workspace contains 3 File Structures that "Scream OOP", wherein the src contains:
 
 - `ui`: package manages all user interface and rendering responsibilities using Java Swing. It visualizes the game state and forwards user input to the core logic without directly modifying game rules.
 - `Core`: package contains the main game logic and data models of the Tetris application. It is responsible for enforcing the game rules, managing the board state, handling tetromino behavior, tracking scoring and levels, and coordinating overall game flow.
