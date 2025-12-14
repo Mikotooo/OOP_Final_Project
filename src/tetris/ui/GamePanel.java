@@ -232,7 +232,9 @@ public class GamePanel extends JPanel implements KeyListener {
         g.drawString("P PAUSE", tx, infoY); infoY += 14;
         g.drawString("R RESTART", tx, infoY); infoY += 14;
         g.drawString("↑ ROTATE", tx, infoY); infoY += 14;
-        g.drawString("SPACE DROP", tx, infoY);
+        g.drawString("SPACE DROP", tx, infoY); infoY += 14;
+        g.drawString("ERP Collective <3", tx, infoY);
+
     }
 
     private void drawStateOverlay(Graphics g, int x, int y, int w, int h, String state) {
